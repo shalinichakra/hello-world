@@ -5,7 +5,7 @@
 </h1>
 
 <body>
-The narwhal (Monodon monoceros), or narwhale, is a medium-sized toothed whale that possesses a large "tusk" from a    protruding canine tooth. It lives year-round in the Arctic waters around Greenland, Canada, and Russia. It is one of two living species of whale in the Monodontidae family, along with the beluga whale. The narwhal males are distinguished by a long, straight, helical tusk, which is an elongated upper left canine. The narwhal was one of many species described by Carl Linnaeus in his publication Systema Naturae in 1758.
+  The narwhal <emphasis>(Monodon monoceros)</emphasis>, or <b>narwhale</b>, is a medium-sized toothed whale that possesses a large "tusk" from a protruding canine tooth. It lives year-round in the Arctic waters around Greenland, Canada, and Russia. It is one of two living species of whale in the <i>Monodontidae</i> family, along with the beluga whale. The narwhal males are distinguished by a long, straight, helical tusk, which is an elongated upper left canine. The narwhal was one of many species described by Carl Linnaeus in his publication <cite>Systema Naturae</cite> in 1758.
 
 Like the beluga, narwhals are medium-sized whales. For both sexes, excluding the male's tusk, the total body size can range from 3.95 to 5.5 m (13 to 18 ft); the males are slightly larger than the females. The average weight of an adult narwhal is 800 to 1,600 kg (1,760 to 3,530 lb). At around 11 to 13 years old, the males become sexually mature; females become sexually mature at about 5 to 8 years old. Narwhals do not have a dorsal fin, and their neck vertebrae are jointed like those of other mammals, not fused as in dolphins and most whales.
 
